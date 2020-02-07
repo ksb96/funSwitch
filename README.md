@@ -1,0 +1,2 @@
+# funSwitch
+magic
